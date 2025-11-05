@@ -1,4 +1,4 @@
-// Modifiquei esse arquivo 
+// Nova mudança 
 
 const html = document.querySelector('html')
 const focoBt = document.querySelector('.app__card-button--foco')
