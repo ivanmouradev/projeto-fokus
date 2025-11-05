@@ -1,5 +1,5 @@
 // Nova mudança 
-// Comentário adicionado manualmente
+// Batman cavaleiro das trevas
 
 const html = document.querySelector('html')
 const focoBt = document.querySelector('.app__card-button--foco')
